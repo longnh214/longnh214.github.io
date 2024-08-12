@@ -680,7 +680,7 @@ $btn-mb: 0.5rem;
   width: $sidebar-width;
   z-index: 99;
   // background: var(--sidebar-bg);
-  background: url('/assets/img/newyork.jpg');
+  background: url('/assets/img/background.jpeg');
   background-size: 100% 100%;
   background-position: center;
   border-right: 1px solid var(--sidebar-border-color);
@@ -696,12 +696,15 @@ $btn-mb: 0.5rem;
 
   %sidebar-link-hover {
     &:hover {
-      color: var(--sidebar-active-color);
+      // color: var(--sidebar-active-color);
+      color: rgba(254, 254, 254, 99%);
     }
   }
 
   a {
     @extend %sidebar-links;
+
+    color: rgba(254, 254, 254, 99%);
   }
 
   #avatar {
@@ -743,13 +746,14 @@ $btn-mb: 0.5rem;
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
-      color: var(--site-title-color);
+      // color: var(--site-title-color);
+      color: rgba(254, 254, 254, 99%);
     }
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--site-subtitle-color);
+    color: rgba(254, 254, 254, 99%);
     margin-top: 0.25rem;
     word-spacing: 1px;
     -webkit-user-select: none;
@@ -770,6 +774,7 @@ $btn-mb: 0.5rem;
       a.nav-link {
         @include pt-pb(0.6rem);
 
+        color: rgba(254, 254, 254, 99%);
         display: flex;
         align-items: center;
         border-radius: 0.75rem;
