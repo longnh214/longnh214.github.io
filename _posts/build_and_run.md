@@ -1,0 +1,1 @@
+`bundle exec jekyll serve` 를 통해 로컬로 실행한다.
