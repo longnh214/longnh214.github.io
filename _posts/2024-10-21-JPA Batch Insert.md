@@ -21,7 +21,7 @@ tags:
 
 ## Batch Insert란?
 
-```SQL
+```sql
 # 일반적인 개별 insert
 insert into member (username, age) values (?, ?)
 ;
