@@ -121,7 +121,7 @@ spring:
         use_sql_comments: true
             
 ```
-DB의 캐시 초기화를 위해 `ddl-auto` 값을 create로 설정했고, 쿼리의 소요 시간을 조회하기 위한 `generate_statistics`값을 `true`로 주었다.
+DB의 캐시 초기화를 위해 `ddl-auto` 값을 `create`로 설정했고, 쿼리의 소요 시간을 조회하기 위한 `generate_statistics`값을 `true`로 주었다.
 
 ### saveAll test code
 
