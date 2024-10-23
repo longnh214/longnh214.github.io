@@ -26,7 +26,7 @@ tags:
 
 ![스크린샷 2024-10-15 오후 12 46 40](https://github.com/user-attachments/assets/7d2a971a-50f1-436c-86b9-c1022fc707ab)
 
-* 커밋의 이메일 주소가 github 계정과 맞아야하한다.
+* 커밋의 이메일 주소가 github 계정과 맞아야한다.
 * fork repository가 아닌 개인 repository에서 커밋이 이루어져야한다.
 * Repository의 기본 브랜치(예시로 `main`, `master`)에서 커밋이 되었다.
 * (Github Blog의 경우) `gh-pages` 브랜치에서 커밋이 되었다.
