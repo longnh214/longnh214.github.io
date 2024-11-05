@@ -1,5 +1,5 @@
 ---
-title: Fork한 Github Blog에 커밋 시 잔디가 생기지 않는 현상 해결
+title: "[Github Blog] Fork한 Github Blog에 커밋 시 잔디가 생기지 않는 현상 해결"
 date: 2024-10-16 11:01:55 +09:00
 categories: [Problem Solve, Blog]
 tags:

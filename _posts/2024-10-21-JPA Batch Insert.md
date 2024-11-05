@@ -1,5 +1,5 @@
 ---
-title: JPA Batch Insert에 대해서 깊게 알아보자.
+title: "[Spring/JPA] JPA Batch Insert에 대해서 깊게 알아보자."
 date: 2024-10-21 13:43:53 +09:00
 categories: [Spring, JPA]
 tags:
