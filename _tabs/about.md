@@ -14,6 +14,6 @@ order: 4
 
 [NakNak's Github](https://longnh214.github.io)
   
-![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnh0214)
+![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=cnh0214)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longnh214)
