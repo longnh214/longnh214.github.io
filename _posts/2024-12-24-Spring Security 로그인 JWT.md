@@ -311,7 +311,7 @@ httpSecurity.authorizeHttpRequests(auth -> auth
                 )
 ```
 
-login 관련 API 엔드포인트는 검증에 상관없이 허용해주었고, 그 이외의 API 엔드포인트 요청에는 권한 검증이 적용되도록 설정했다.
+로그인 관련 API 엔드포인트는 검증에 상관없이 허용해주었고, 그 이외의 API 엔드포인트 요청에는 권한 검증이 적용되도록 설정했다.
 
 <br>
 
