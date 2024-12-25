@@ -289,6 +289,8 @@ Spring Security에서 로그인 기능을 위임해서 처리하고, 로그인�
 
 Spring Security의 기본적인 Session 방식의 로그인을 알아봤다. 이후에는 Session보다 많이 사용되는 JWT, OAuth2 방식으로 로그인 구현을 주제로 다뤄보고자 한다.
 
+코드는 [Github](https://github.com/longnh214/back_playground/tree/main/spring-security-example)에 정리해서 업로드했다.
+
 ## 참고
 
 - [Spring Boot로 만드는 Spring Security 로그인 구현 - Session(1)](https://stir.tistory.com/266)
