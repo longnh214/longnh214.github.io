@@ -1,5 +1,5 @@
 ---
-title: "[Spring/Spring Batch] Spring Batch 시작하기"
+title: "[Spring/Spring Batch] Spring Batch 시작하기 - @EnableBatchProcessing"
 date: 2025-04-20 20:12:23 +09:00
 categories: [Spring, Spring Batch]
 tags: [
@@ -9,6 +9,7 @@ tags: [
     스프링 부트,
     배치,
     Batch,
+    EnableBatchProcessing,
 ]
 ---
 
