@@ -1,5 +1,5 @@
 ---
-title: "[Java/자료구조] Stack vs Queue"
+title: "[Java/자료구조] Stack vs Queue (feat. Deque)"
 date: 2025-04-21 20:12:23 +09:00
 categories: [Java, Data Structure, 알고리즘]
 tags: [
@@ -8,9 +8,11 @@ tags: [
     알고리즘,
     Stack,
     Queue,
+    Deque,
     스택,
     큐,
     자바,
+    덱,
 ]
 ---
 
