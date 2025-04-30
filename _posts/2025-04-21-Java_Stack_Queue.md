@@ -155,7 +155,7 @@ public class ArrayDeque<E> extends AbstractCollection<E>
 }
 ```
 
-> Deque의 구현체 ArrayDeque는 내부적으로 `Object[] elements;`와 같이 배열로 구성되어있다.
+> Deque의 구현체 ArrayDeque는 내부적으로 `Object[] elements;`와 같이 배열로 구성되어있고, 내부적으로 addFirst, addLast, pollFirst, pollLast 메소드가 구현되어있다.
 
 ### LinkedList
 
