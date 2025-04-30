@@ -100,16 +100,16 @@ public class Vector<E>
 
 > Stack의 내부 Vector 클래스 안에 요소는 배열로 선언되어있는 것을 알 수 있다.
 
-### Queue (ArrayQueue)
+### Queue (ArrayDeque)
 
 ```java
-public class ArrayQueue<T> extends AbstractList<T> {
-    private T[] queue;
+public class ArrayDeque<E> extends AbstractCollection<E> implements Deque<E>, Cloneable, Serializable {
+    transient Object[] elements;
     //...
 }
 ```
 
-> Queue의 구현체 중 하나인 `ArrayQueue`클래스 내에는 T[] 배열 타입으로 요소가 이루어져 있다.
+> Queue의 구현체 중 하나인 `ArrayDeque`클래스 내에는 Object[] 배열 타입으로 요소가 이루어져 있다.
 
 ### Queue (LinkedList)
 
