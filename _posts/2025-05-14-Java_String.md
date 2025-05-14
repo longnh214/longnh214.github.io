@@ -56,7 +56,7 @@ public final class String
 <br>
 <br>
 
-# `compareTo()`
+# compareTo()
 
 > `compareTo()`는 `String.compareTo(String anotherString)` 형태로 다른 문자열과 비교할 때 사용하는 메소드로 각각 결과값이 음수, 0, 양수에 따라 다음과 같은 의미를 가진다.
 
@@ -128,7 +128,7 @@ private static int compareValues(byte[] value, byte[] other, int len1, int len2)
 <br>
 <br>
 
-# `contains()`와 `indexOf()`
+# contains()와 indexOf()
 
 문자열 안에 특정 문자열이 포함되어있는지 판별하는 `contains()`는 내부적으로 `indexOf()` 메소드가 호출된다.
 
@@ -230,7 +230,7 @@ Latin1과 UTF-16로 분기처리 되어지지만 `indexOf` 메소드 내부 로�
 <br>
 <br>
 
-# `startsWith()`와 `endsWith()`
+# startsWith()와 endsWith()
 
 ```java
 //...
@@ -280,7 +280,7 @@ public boolean startsWith(String prefix, int toffset) {
 <br>
 <br>
 
-# `substring()`
+# substring()
 
 ```java
 //...
@@ -318,7 +318,7 @@ public String substring(int beginIndex, int endIndex) {
 <br>
 <br>
 
-# `replace(char oldChar, char newChar)`
+# replace(char oldChar, char newChar)
 
 ```java
 //String.java
@@ -409,7 +409,7 @@ public static String replace(byte[] value, char oldChar, char newChar) {
 }
 ```
 
-### 💡 `replace()` 로직 흐름
+### 💡 replace() 로직 흐름
 
 1. 문자열의 처음부터 순차적으로 oldChar와 비교한다.
 2. oldChar를 찾았다면 새 byte 배열을 만들어서 교체를 진행한다.
