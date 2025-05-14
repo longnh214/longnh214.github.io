@@ -1,5 +1,5 @@
 ---
-title: "[Java] Java의 JDK 별 String"
+title: "[Java] Java의 String (Java 11)"
 date: 2025-05-14 14:22:31 +09:00
 categories: [Java, String, 알고리즘]
 tags: [
