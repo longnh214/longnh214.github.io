@@ -46,7 +46,7 @@ tags: [
 ## Bloom Filter에서 특정 원소를 찾는 방법
 
 <div style="text-align: center;">
-    <img src="../assets/img/develop/bloom_Filter_find.png" alt="bloom_filter_find" width="500">
+    <img src="../assets/img/develop/bloom_filter_find.png" alt="bloom_filter_find" width="500">
 </div>
 
 **Bloom Filter**에서 특정 원소를 찾는 방법에 대해서 위 그림을 참고해서 설명하고자 한다.
