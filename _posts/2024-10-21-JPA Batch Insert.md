@@ -22,11 +22,11 @@ tags:
 ## Batch Insert란?
 
 ```sql
-# 일반적인 개별 insert
+-- 일반적인 개별 insert
 insert into member (username, age) values (?, ?)
 ;
 
-# 배치 insert
+-- 배치 insert
 insert into member (username, age)
     values
             ('안유진', 21),
